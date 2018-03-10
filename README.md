@@ -25,4 +25,4 @@ MedianFilter <input-image> <output-image> <w> <h>
 ```
 BilateralFilter <input-image> <output-image> <sigma-s> <sigma-r>
 ```
-<img src="https://github.com/BestOreo/Pic-for-README.md/blob/master/ImageFilter/Contrast_BilateralFilter.png" width="50%" height="50%" />
+<img src="https://github.com/BestOreo/Pic-for-README.md/blob/master/ImageFilter/Contrast_BilateraFilter.png" width="50%" height="50%" />
